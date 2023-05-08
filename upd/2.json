@@ -1,0 +1,32 @@
+{
+  "name": "WWW #2",
+  "symbol": "SSS",
+  "image": "https://raw.githubusercontent.com/testacc458/metad/main/upd/2.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "CREATORBpY6CR7hy6nmzvL6wbMAsiAFA8SvJZYtmRBAo",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/testacc458/metad/main/upd/2.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "description": "WWW.",
+  "seller_fee_basis_points": 100,
+  "collection": {
+    "name": "ARC",
+    "family": "ABCCC"
+  },
+  "attributes": [
+    {
+      "trait_type": "RR",
+      "value": "W12"
+    }
+  ]
+}
