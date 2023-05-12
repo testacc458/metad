@@ -1,0 +1,32 @@
+{
+    "name": "Item #2",
+    "symbol": "PAPI",
+    "image": "https://github.com/testacc458/metad/blob/main/uri/1.png",
+    "properties": {
+      "category": "image",
+      "creators": [
+        {
+          "address": "7sLBoKRyVgAFxSNPdG9EAitKG4aqRgqPpCyJQtDwWgco",
+          "share": 100
+        }
+      ],
+      "files": [
+        {
+          "uri": "https://github.com/testacc458/metad/blob/main/uri/1.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "description": "This is nft.",
+    "seller_fee_basis_points": 5000,
+    "collection": {
+      "name": "Papiross",
+      "family": "Papiross"
+    },
+    "attributes": [
+      {
+        "trait_type": "Back",
+        "value": "Yellow-ish"
+      }
+    ]
+  }
