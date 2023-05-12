@@ -1,7 +1,7 @@
 {
   "name": "Item Hidden",
   "symbol": "PAPI",
-  "image": "https://github.com/testacc458/metad/blob/main/assets/hidden.png",
+  "image": "https://raw.githubusercontent.com/testacc458/metad/main/assets/hidden.png",
   "properties": {
     "category": "image",
     "creators": [
@@ -12,7 +12,7 @@
     ],
     "files": [
       {
-        "uri": "https://github.com/testacc458/metad/blob/main/assets/hidden.png",
+        "uri": "https://raw.githubusercontent.com/testacc458/metad/main/assets/hidden.png",
         "type": "image/png"
       }
     ]
