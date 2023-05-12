@@ -1,0 +1,32 @@
+{
+  "name": "Item Hidden",
+  "symbol": "PAPI",
+  "image": "https://raw.githubusercontent.com/testacc458/metad/main/upd/0.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "CNqp3sGsbSX2kcFaRiDSAfrLpKeY1U3LtEZQKgEbJmtK",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/testacc458/metad/main/upd/0.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "description": "WWW.",
+  "seller_fee_basis_points": 100,
+  "collection": {
+    "name": "Papiross",
+    "family": "Papiross"
+  },
+  "attributes": [
+    {
+      "trait_type": "Hidden",
+      "value": "Hidden"
+    }
+  ]
+}
